@@ -1,0 +1,12 @@
+Content
+
+Output Statements
+    - The print() Statement
+    - The print("String") Statement
+    - The print(Variable List) Statement
+    - The print(Object) Statement
+    - The print("String", Variable List) Statement
+    - The print(formatted String) Statement
+Input Statements
+Command Line Arguments
+    - Parsing Command Line Arguments

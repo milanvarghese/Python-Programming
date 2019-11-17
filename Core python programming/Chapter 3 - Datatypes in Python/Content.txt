@@ -1,0 +1,34 @@
+Content
+
+1 Comments in Python
+    - Single Line Comments
+    -  Multi Line Comments
+2 Docstrings
+3 How Python Sees Variables
+4 Datatypes in PythonBuilt-in Datatypes
+    - The None Type
+    - Numeric Types
+    - Representing Binary, Ocatal and Hexadecimal Numbers
+    - Converting the Datatypes Explictly
+5 Bool Datatypes
+6 Sequences in Python
+    - str Datatypes
+    - Bytes Datatypes
+    - Bytearray Datatypes
+    - List Datatypes
+    - Tuple Datatypes
+    - Range Datatypes
+7 Sets
+    - Set Datatypes
+    - Frozenset Datatypes
+    - Mapping Types
+8 Literals in Python
+    - Numeric Literals
+    - Boolean Literals
+    - String Literals
+9 Determining the Datatype of a Variable
+10 What about Characters
+11 User-Defined Datatypes
+12 Constants in Python
+13 Identifiers and Reserved Words
+14 Naming Conventions in Python

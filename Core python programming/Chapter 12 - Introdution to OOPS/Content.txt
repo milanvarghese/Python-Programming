@@ -1,0 +1,10 @@
+Content
+
+Problems in Procedure Oriented Apporach
+Specialty of Python Language
+Features of Object Oriented Programming System (OOPS)
+    - Classes and Objects
+    - Encapsulation
+    - Abstraction
+    - Inheritance
+    - Polymorphism

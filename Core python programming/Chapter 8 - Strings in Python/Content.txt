@@ -1,0 +1,25 @@
+Content
+
+Creating Strings
+Length os a String
+Indexing in Strings
+Slicing the Strings
+Repeating the Strings
+Concatenation of Strings
+Checking Membership
+Comparing Strings
+Removing Spaces from a String
+Finding Substrings
+Counting Substrings in a String
+Strings are immutable
+Replacing a String with another String
+Splitting and joining Strings
+Changing Case of String
+Checking starting and Ending of a String
+String Testing Methods
+Formatting the Strings
+Working with Characters
+Sorting Strings
+Searching in the Strings
+Finding the number of characters and Strings
+Inserting Substrings into a String

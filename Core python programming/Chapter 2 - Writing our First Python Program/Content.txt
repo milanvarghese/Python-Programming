@@ -1,0 +1,17 @@
+Content
+
+1 Installing Python For Windows
+2 Testing the Installation in Windows 10
+3 Verifying the Path to Python
+4 Installing numpy
+5 Installing pandas
+6 Installing xlrd
+7 Installing matplotlib
+8 Verifying Installed Packages
+9 Writing Our First Python Program
+10 Executing a Python Program
+    -Using Pythons Command Line Windows
+    -Using Pythons IDLE Graphics Window
+    -Running Directly from system prompt
+11 Getting help in Python
+12 Getting Python Documentation help

@@ -1,0 +1,27 @@
+Content
+
+Difference between a Function and a Method
+Defining a Function
+Calling a Function
+Returning Results from a Function
+Returning Multiple values from a Function
+Functions are first class objects
+Pass by objective referance
+Formal and Actual Arguments
+Positional Arguments
+Keyword Arguments
+Default Arguments
+Variable Length Arguments
+Local and Global Arguments
+The Global Keyword
+Padding a Gropup of Elements to a funciton 
+Recursive Functions
+Anonymous Functions or Lambdas
+    - Using Lambdas with filter() Function
+    - Using Lambdas with map() Function
+    - Using Lambdas with reduce() Function
+function Decorators
+Generators
+Structured Programming
+Creating Your Own Modules in Python
+The special variable __name__

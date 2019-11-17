@@ -1,0 +1,14 @@
+Content
+
+Data Frame
+    - Creating Data Frame from an Excel Spreadsheet
+    - Creating Data Frame from .csv file
+    - Creating Data Frame from a Python Dictionary
+    - Creating Data from Python List of Tuples
+    - Operations on Data Frames
+Data Visualisation
+    - Bar Graph
+    - Histogram
+    - Creating a Pi Chart
+    - Creating a Line Graph
+    

@@ -1,0 +1,10 @@
+Content
+
+Operations on Dictionaries
+Dictionary Methods
+Using for Loop with Dictionaries
+Sorting the elements of a Dictionary using Lambdas
+Converting Lists into Dictionary
+Converting Strings into Dictionary
+Passing Dictionaries to Functions
+Ordered Dictionaries

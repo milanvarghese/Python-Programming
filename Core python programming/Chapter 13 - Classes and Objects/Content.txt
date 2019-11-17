@@ -1,0 +1,13 @@
+Content
+
+Creating a Class
+The Self Variable
+Consructor
+Types of Variables 
+Namespaces
+Types of Methods
+    - Instance Methods
+    - Class Methods
+    - Static Methods
+Passing Members of One Class to Another Class
+Inner Classes

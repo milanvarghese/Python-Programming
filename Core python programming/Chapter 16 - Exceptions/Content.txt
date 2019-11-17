@@ -1,0 +1,13 @@
+Content
+
+Errors in a Python Program
+   - Compile-Time Errors
+   - Runtime Errors
+   - Logical Errors
+Exceptions
+Exceptions Handling
+Types of Exceptions
+The Except Block
+The assert Statement
+User-Defined Exceptions
+Logging the Exceptions

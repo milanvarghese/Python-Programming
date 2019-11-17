@@ -1,0 +1,28 @@
+Content
+
+Operator
+Arithmetic Operator
+Using Python Interpreter as Calculator
+Assignment Operators
+Unary Minus Operator
+Relational Operators
+Logical Ooperators
+Boolean Operator
+Bitwise Operators
+    - Bitwise Compliment Operator (~)
+    - Bitwise AND Operator ()
+    - Bitwise OR Operator ()
+    - Bitwise XOR Operator ()
+    - Bitwise Left Shift Operator ()
+    - Bitwise Right Shift Operator ()
+Membership Operators
+    - The in Operator
+    - The not in Operator
+Identity Operator
+    - THe is Operator
+    - The is not Operator
+Operator Precedence and Associativity
+Mathematical Functions
+Using IDLE Window
+Using Command Line Window
+Executing at System Prompt

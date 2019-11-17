@@ -3,7 +3,7 @@ if __name__ == '__main__':
     sm = {}
 
     for _ in range(n):
-        name, *line = input().split()
+        name, line = input().split()
         scores = list(map(float, line))
         sm[name] = scores
     query_name = input()

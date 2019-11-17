@@ -1,0 +1,47 @@
+Content
+
+Array
+Advantages of Arrays
+Creating an Array
+Improting the Array Module
+Indexing and Slicing on Arrays
+Processing the Arrays
+Types of Arrays
+Working with Arrays using numpy
+Creating Arrays using Array()
+Creating Arrays using Linspace
+Creating Arrays using Logspace
+Creating Arrays using arange() Function
+Creating Arrays using zeros() Funciton and ones() Function
+Mathematical Operations on Arrays
+Comparing Arrays
+Aliasing the Arrays
+Viewing and Copying the Arrays 
+Slicing and Indexing in Numpy Arrays
+Dimensions of Array
+Attributes of an Array
+    - The ndim Attribute
+    - The shape Attribute
+    - The size Attribute
+    - The itemsize Attribute
+    - The dtype Attribute
+    - The nbytes Attribute
+The reshape() Method
+The flatten() Method
+Working with Multi-Dimensional Array
+    - The array() Function
+    - The ones() and zeros() Function
+    - The eye() Function
+    - The reshape() Function
+Indexing in Multi-dimensional Arrays
+Slicing the Multidimensional Arrays
+Matrices in numpy
+Getting Diagonal Elements of a Matrix
+Finding Maximum and Minimum Elements
+Finding Sum and Average of Elements
+Products of Elements
+Soring the Matrix
+Transpose of a Matrix
+Matrix Addition and Multiplicaiton
+Random Numbers
+Points to Remember

@@ -1,0 +1,16 @@
+Content
+
+Files
+Type of Files in Python
+Opening a File
+Closing a File
+Working with text Files containg strings
+Knowing whether a File exists or not
+Working with binary Files
+THe with statement
+Pickle in Python
+The seek() and tell() Methods
+Random Accessing of Binary Files
+Random Accessing of Binary Files using mmap
+Working with Dictionaries 
+Running Other Programs from Python Programs

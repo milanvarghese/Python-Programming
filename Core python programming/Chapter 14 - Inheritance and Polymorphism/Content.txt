@@ -1,0 +1,14 @@
+Content
+
+Constructions in Inheritence
+Overriding Super Class Constructors and Methods
+The Super() Method
+Types of Inheritence
+    - Single Inheritence
+    - Multiple Inheritence
+Method Resolution Order
+Polymorphism
+Duck Typing Philosphy of Python
+Operator Overloading
+Method Overloading
+Method Overriding

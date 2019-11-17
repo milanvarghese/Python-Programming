@@ -1,0 +1,23 @@
+Content
+
+List
+Creating lists using range() Function
+Updating the Elements of a List
+Concationation of two lists
+Repetations of Lists 
+Membership of ListsAliasing and Cloning Lists
+Methods to Process Lists
+Finding Biggest and Smallest Elements in a List
+Storing Different types of data in a list
+Nested Lists
+Nested Lists as Matrices 
+List Comprehensions
+Tuples
+Creating Tuples
+Acessing the Tuple Elements
+Basic Operations on Tuples
+Functions to Process Tuples
+Nested Tuples
+Inserting Elements into Tuples
+Modifying Elements of a Tuple
+Deleting Elements from a Tuple
